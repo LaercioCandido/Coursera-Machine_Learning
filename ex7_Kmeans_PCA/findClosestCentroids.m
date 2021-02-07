@@ -21,6 +21,17 @@ idx = zeros(size(X,1), 1);
 % Note: You can use a for-loop over the examples to compute this.
 %
 
+for i = 1:size(X, 1)
+    min_distance = inf; % inf represents the mathematical positive infinity concept
+    for k = 1:K
+        diff = X(i, :)' - centroids(k, :)';
+        distance = diff' * diff;
+        if (distance < min_distance)
+            idx(i) = k;
+            min_distance = distance;
+        end
+    end
+end
 
 
 
