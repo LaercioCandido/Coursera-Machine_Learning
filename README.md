@@ -9,3 +9,5 @@ Contem:
 - Regressão Logística
 - Redes Neurais
 - SVM
+- K-means
+- PCA
