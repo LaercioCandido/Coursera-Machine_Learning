@@ -11,3 +11,5 @@ Contem:
 - SVM
 - K-means
 - PCA
+- Detecção de anomalias
+- Sistemas de recomendação
