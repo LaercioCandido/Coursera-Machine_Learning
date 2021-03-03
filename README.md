@@ -22,5 +22,5 @@ https://www.coursera.org/learn/machine-learning
 - Bias/variance, regularization
 - Evaluation of learning algorithms
 - learning curves
-- arror analysis
+- error analysis
 - ceiling analysis
