@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning - Coursera
 
 Resolução dos exercícios de programação de machine learning propostos pelo curso da Universidade Stanford
 https://www.coursera.org/learn/machine-learning
